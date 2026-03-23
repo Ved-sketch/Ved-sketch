@@ -1,7 +1,7 @@
 # Hi 👋, I'm Ved Gupta
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=SERN+Developer;Building+Stuff;Always+Learning;CSE+Student&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer;Supabase;React;ExpressJs;Building+Stuff;Always+Learning;CSE+Student&center=true&width=500&height=50">
 </p>
 
 <p align="center">
