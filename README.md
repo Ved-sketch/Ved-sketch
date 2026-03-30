@@ -12,7 +12,7 @@
 
 ## 🚀 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,python,supabase,mongodb,nodejs,react,express" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,python,supabase,nodejs,react,express" />
 </p>
 
 ---
